@@ -12,19 +12,19 @@ PDF 문서에서 정확한 답변을 추출하는 강력한 질의응답 시스�
 
 - PDF 처리 파이프라인
 
-  PDF → Markdown 변환
-  헤더 기반 텍스트 분할
+  PDF → Markdown 변환<br/>
+  헤더 기반 텍스트 분할<br/>
   청크 생성
 
 
 - 검색 시스템
 
-  BM25 검색기
-  FAISS 벡터 검색
+  BM25 검색기<br/>
+  FAISS 벡터 검색<br/>
   Ensemble Retriever
 
 
 - 질의응답 파이프라인
 
-  프롬프트 템플릿 적용
+  프롬프트 템플릿 적용<br/>
   LLM 기반 답변 생성
